@@ -70,4 +70,4 @@ https://www.youtube.com/@DivKLearner <br/>
          Replied on the same link as query. 
     </td>
   </tr> 
-</Table>How to prevent a record from splitting across two pages when exporting from PBIReportBuilder to Word
+</Table>
