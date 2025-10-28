@@ -45,15 +45,15 @@ _A bit forward daily._<br/>
        Power BI Desktop Community
      </td>
      <td>
-       <a href="https://community.fabric.microsoft.com/t5/Desktop/MINX-with-Temp-Table/m-p/4860110#M1442766">MINX with Temp Table</a>
+       <a href=""></a>
      </td>
     <td>
       <ol>
         <li>
-          <a href="https://github.com/DivKLearner/FabricMicrosoftCommunitySupport/blob/main/FabricMicrosoftCommunity_MinX_TempTable_28102025.pbix">FabricMicrosoftCommunity_MinX_TempTable_28102025.pbix</a>
+          <a href=""></a>
         </li>
        <li>
-       <a href="https://github.com/DivKLearner/FabricMicrosoftCommunitySupport/blob/main/FabricMicrosoftCommunity_MinX_TempTable_28102025.xlsx">FabricMicrosoftCommunity_MinX_TempTable_28102025.xlsx</a>
+       <a href=""></a>
        </li>
       </ol>
     </td>
