@@ -14,3 +14,48 @@ A partner who supports and stands by you.
 Regards,<br/>
 **DivKLearner**<br/>
 _A bit forward daily._<br/>
+<hr>
+<H1>Details Link</H1>
+<Table>
+  <tr>
+    <th>
+      S.No.
+    </th>
+    <th>
+      Date 
+    </th>
+    <th>
+      Topic
+    </th>
+     <th>
+      Link of Query
+    </th>
+    <th>
+      Support Data File/Pbix file/ExplanationFile.
+    </th>
+  </tr>
+  <tr>
+     <td>
+       1
+     </td>
+     <td>
+       28th Oct 2025
+     </td>
+     <td>
+       Power BI Desktop Community
+     </td>
+     <td>
+       <a href="https://community.fabric.microsoft.com/t5/Desktop/MINX-with-Temp-Table/m-p/4860110#M1442766">MINX with Temp Table</a>
+     </td>
+    <td>
+      <ol>
+        <li>
+          <a href="https://github.com/DivKLearner/FabricMicrosoftCommunitySupport/blob/main/FabricMicrosoftCommunity_MinX_TempTable_28102025.pbix">FabricMicrosoftCommunity_MinX_TempTable_28102025.pbix</a>
+        </li>
+       <li>
+       <a href="https://github.com/DivKLearner/FabricMicrosoftCommunitySupport/blob/main/FabricMicrosoftCommunity_MinX_TempTable_28102025.xlsx">FabricMicrosoftCommunity_MinX_TempTable_28102025.xlsx</a>
+       </li>
+      </ol>
+    </td>
+  </tr> 
+</Table>
