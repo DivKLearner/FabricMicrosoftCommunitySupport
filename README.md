@@ -47,17 +47,27 @@ https://www.youtube.com/@DivKLearner <br/>
        Power BI Desktop Community
      </td>
      <td>
-       <a href=""></a>
+       <a href="https://community.fabric.microsoft.com/t5/Desktop/How-to-count-page-per-report-in-Usage-Metrics/m-p/4860702#M1442905">How to count page per report in Usage Metrics</a>
      </td>
     <td>
-      <ol>
-        <li>
-          <a href=""></a>
-        </li>
-       <li>
-       <a href=""></a>
-       </li>
-      </ol>
+          Replied on the same link as query. 
+    </td>
+  </tr> 
+   <tr>
+     <td>
+       2
+     </td>
+     <td>
+       28th Oct 2025
+     </td>
+     <td>
+       Power BI Desktop Community
+     </td>
+     <td>
+       <a href="https://community.fabric.microsoft.com/t5/Desktop/How-to-prevent-a-record-from-splitting-across-two-pages-when/m-p/4860696#M1442904"></a>
+     </td>
+    <td>
+         Replied on the same link as query. 
     </td>
   </tr> 
 </Table>
