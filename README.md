@@ -64,10 +64,10 @@ https://www.youtube.com/@DivKLearner <br/>
        Power BI Desktop Community
      </td>
      <td>
-       <a href="https://community.fabric.microsoft.com/t5/Desktop/How-to-prevent-a-record-from-splitting-across-two-pages-when/m-p/4860696#M1442904"></a>
+       <a href="https://community.fabric.microsoft.com/t5/Desktop/How-to-prevent-a-record-from-splitting-across-two-pages-when/m-p/4860696#M1442904">How to prevent a record from splitting across two pages when exporting from PBIReportBuilder to Word</a>
      </td>
     <td>
          Replied on the same link as query. 
     </td>
   </tr> 
-</Table>
+</Table>How to prevent a record from splitting across two pages when exporting from PBIReportBuilder to Word
